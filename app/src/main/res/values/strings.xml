@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestCoordinatorRecycler</string>
+    <string name="label">This is item %s</string>
+</resources>
